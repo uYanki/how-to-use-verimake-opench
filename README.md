@@ -5,7 +5,7 @@ development environment: MounRiverStudio(MRS) http://mounriver.com/download
 
 ### board_opench_ch32v307
 
-![board_opench_ch32v307](5.Images/board_opench_ch32v307.jpg)
+![opench_board](1.Board/opench_board.jpg)
 
 ### Create Project (demo)
 
