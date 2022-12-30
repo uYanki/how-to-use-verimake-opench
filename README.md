@@ -157,9 +157,9 @@ Bilibili：https://space.bilibili.com/356383684)
 
 ### Create Project (demo)
 
-![image-20220412115929092](5.Images/how_to_create_a_project.png)
+![how_to_create_a_project](README.assets/how_to_create_a_project.png)
 
-![image-20220412121343551](5.Images/how_to_build_adn_download.png)
+![how_to_build_and_download](README.assets/how_to_build_and_download.png)
 
 `main.c`
 
