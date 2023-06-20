@@ -1,13 +1,13 @@
 # hardware_verimake_opench_ch32v307
-Refer: https://verimake.com/d/37-opench-ch32v307-risc-v
+refer: https://verimake.com/d/37-opench-ch32v307-risc-v
 
-development environment: MounRiverStudio(MRS) http://mounriver.com/download
+env: MounRiverStudio， [MRS](http://mounriver.com/download) 
 
-Bilibili：https://space.bilibili.com/356383684)
+bilibili：https://space.bilibili.com/356383684
 
 ### board_opench_ch32v307
 
-![board_res](Images/board_res.jpg)
+![board_res](./1.Board/board_res.jpg)
 
 * CH32V307VCT6
 * ES8388 音频采集与播放
@@ -189,4 +189,10 @@ int main(void) {
     }
 }
 ```
+
+
+
+
+
+
 

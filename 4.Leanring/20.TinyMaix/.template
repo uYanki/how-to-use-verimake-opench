@@ -1,0 +1,12 @@
+
+Vendor=WCH
+MCU=CH32V307VCT6
+Mcu Type=CH32V30x
+Link=WCH-Link
+Address=0x08000000
+Target Path=
+Erase All=false
+Program=false
+Verify=false
+Reset=false
+CLKSpeed=1
