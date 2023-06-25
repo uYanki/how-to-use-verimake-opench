@@ -1,4 +1,5 @@
 # hardware_verimake_opench_ch32v307
+
 refer: https://verimake.com/d/37-opench-ch32v307-risc-v
 
 env: MounRiverStudio， [MRS](http://mounriver.com/download) 
@@ -157,9 +158,11 @@ bilibili：https://space.bilibili.com/356383684
 
 ### Create Project (demo)
 
-![how_to_create_a_project](README.assets/how_to_create_a_project.png)
+![how_to_create_a_project](.assest/README/how_to_create_a_project.png)
 
-![how_to_build_and_download](README.assets/how_to_build_and_download.png)
+![how_to_build_and_download](.assest/README/how_to_build_and_download.png)
+
+
 
 `main.c`
 

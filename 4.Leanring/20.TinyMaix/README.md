@@ -18,7 +18,7 @@ CMakeTools 自动配置编译器。
 
 ②
 
-将 `ninja.exe` 所在路径添加至环境变量中
+将 `3.Toolchain` 中的 `ninja.exe` 所在路径添加至环境变量，然后进行编译
 
 ```shell
 mkdir build & cd build
